@@ -1,0 +1,10 @@
+[
+  {
+    "type": "sqlite",
+    "path": "d:\\pdf-chat-rag\\chatbot.db"
+  },
+  {
+    "type": "sqlite",
+    "path": "e:\\rag_chatboat\\chatbot.db"
+  }
+]

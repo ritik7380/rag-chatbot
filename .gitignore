@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+chatbot.db
+
+uploads/
+vector_db/
+
+.idea/
+.vscode/
